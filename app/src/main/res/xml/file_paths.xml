@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+        Exposes only app/files/delivery_photos/ (private local storage) to the
+        app through FileProvider so saved photos can be displayed through
+        secure content:// URIs rather than raw file:// paths.
+    -->
+    <files-path name="delivery_photos" path="delivery_photos/" />
+</paths>

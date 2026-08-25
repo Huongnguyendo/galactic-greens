@@ -1,0 +1,22 @@
+# Android Studio and local machine configuration
+.idea/
+*.iml
+local.properties
+app/google-services.json
+.DS_Store
+
+# Gradle and Kotlin generated state
+.gradle/
+.kotlin/
+build/
+**/build/
+
+# Signing material and packaged applications
+*.jks
+*.keystore
+*.apk
+*.aab
+
+# Native build output
+.cxx/
+.externalNativeBuild/
