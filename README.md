@@ -5,6 +5,7 @@ Hungry in deep space? Galactic Greens has you covered. This Android app turns fo
 ## Demo
 
 > 🎬 **Demo video**
+> [![Watch the Galactic Greens demo]](https://youtube.com/shorts/jvFgD0AeZKI)
 
 ## Features
 
